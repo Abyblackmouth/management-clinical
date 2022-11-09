@@ -1,4 +1,3 @@
-
 public class Patient {
 
     private static final int patient = 1;

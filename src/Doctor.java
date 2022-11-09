@@ -1,5 +1,3 @@
-
-
 public class Doctor {
 
     private static final int doctor = 0;
