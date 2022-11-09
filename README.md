@@ -12,3 +12,11 @@ Dar de alta pacientes.
 Crear una cita con fecha y hora relacionando pacientes y doctoes
 
 
+
+
+
+Creditos: Abraham Covarrubias
+_____________________________________________
+Bajo licencia 
+
+
