@@ -35,6 +35,7 @@ public class Database {
         return newId;
     }
 
+
     public void addItem(int type, String id, String[] info){
         if (type == doctor){
             doctors.put(id, info);
